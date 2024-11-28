@@ -1,4 +1,4 @@
-from search import *
+from req import *
 import time
 
 exe = True
